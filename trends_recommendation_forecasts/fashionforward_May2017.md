@@ -30,18 +30,18 @@ Amazon purchase data for 3 categories: shirts, dresses and tops/tees from Januar
 
 * Baselines for forecasting:
 
-	Naive:
+	* Naive:
 	1) mean: it forecasts the future values to be equal to the mean of the observed series; 
 	2) last: it assumes the forecast to be equal to the last observed value; 
 	3) drift: it considers the general trend of the series.
 	
-	Regression: Lag based regressors:
+	* Regression: Lag based regressors:
 	1) linear autoregression model (AR); 
 	2) the autoregression model that accounts for seasonality (AR+S); 
 	3) the vector autoregression (VAR) that considers the correlations between the different styles’ trajectories;
 	4) and the autoregressive integrated moving average
 
-	Neural Networks:
+	* Neural Networks:
 	1) The feed forward neural network (FFNN); 
 	2) and the time lagged neural network (TLNN) model (ARIMA).
 
