@@ -1,4 +1,4 @@
-#Fashion Forward: Forecasting Visual Style in Fashion
+# Fashion Forward: Forecasting Visual Style in Fashion
 Ziad Al-Halah, Rainer Stiefelhagen, Kristen Grauman
 [Paper Link](https://arxiv.org/abs/1705.06394)
 
