@@ -1,5 +1,6 @@
-# Fashion Forward: Forecasting Visual Style in Fashion
+## Fashion Forward: Forecasting Visual Style in Fashion
 Ziad Al-Halah, Rainer Stiefelhagen, Kristen Grauman
+
 [Paper Link](https://arxiv.org/abs/1705.06394)
 
 #### Goal
@@ -28,6 +29,7 @@ Amazon purchase data for 3 categories: shirts, dresses and tops/tees from Januar
 #### Experiments
 
 * Baselines for forecasting:
+
 	Naive:
 	1) mean: it forecasts the future values to be equal to the mean of the observed series; 
 	2) last: it assumes the forecast to be equal to the last observed value; 
@@ -58,11 +60,11 @@ Amazon purchase data for 3 categories: shirts, dresses and tops/tees from Januar
 
 #### Conclusion/Limitation
 
-First attempt at the problem statement
-Interesting problem for fashion industry
+* First attempt at the problem statement
+* Interesting problem for fashion industry
 
-Intuition behind the architecture is unclear
-Attributes are limited to 1000 attributes of deep fashion dataset. 
-It is unclear how many of these attributes are color based, pattern based and so on.
-What is the attribute level performance of the model for unseen unlabelled images. How much error is propagated to fashion forecast
+* Intuition behind the architecture is unclear
+* Attributes are limited to 1000 attributes of deep fashion dataset. 
+* It is unclear how many of these attributes are color based, pattern based and so on.
+* What is the attribute level performance of the model for unseen unlabelled images. How much error is propagated to fashion forecast
 
