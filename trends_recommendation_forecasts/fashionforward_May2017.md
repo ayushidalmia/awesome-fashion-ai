@@ -70,3 +70,4 @@ Amazon purchase data for 3 categories: shirts, dresses and tops/tees from Januar
 * It is unclear how many of these attributes are color based, pattern based and so on.
 * What is the attribute level performance of the model for unseen unlabelled images. How much error is propagated to fashion forecast
 
+*
