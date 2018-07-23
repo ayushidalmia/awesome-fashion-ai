@@ -19,12 +19,13 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
 ### Papers
 * Fashion Image Embeddings
   - [Fashion Style in 128 Floats: Joint Ranking and Classification using Weak Data for Feature Extraction](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Simo-Serra_Fashion_Style_in_CVPR_2016_paper.pdf)
+  - [Learning Type-Aware Embeddings for Fashion Compatibility](https://arxiv.org/pdf/1803.09196v1.pdf)
   
-  
-* Personalisation and Recommendation
+* Personalisation/Recommendation/Outfit Composition
   - [Fashion is Taking Shape: Understanding Clothing Preference Based on Body Shape From Online Sources](https://arxiv.org/pdf/1807.03235v1.pdf)
   - [Creating Capsule Wardrobes from Fashion Images](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hsiao_Creating_Capsule_Wardrobes_CVPR_2018_paper.pdf)
   - [Neuroaesthetics in Fashion: Modeling the Perception of Fashionability](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Simo-Serra_Neuroaesthetics_in_Fashion_2015_CVPR_paper.pdf)
+  - [Interpretable Partitioned Embedding for Customized Fashion Outfit Composition](https://arxiv.org/pdf/1806.04845v4.pdf)
  
 * Visual Search
   - [Studio2Shop: from studio photo shoots to fashion articles](https://arxiv.org/pdf/1807.00556v1.pdf)
