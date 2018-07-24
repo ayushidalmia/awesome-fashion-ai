@@ -17,16 +17,18 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
 
 
 ### Papers
+* Image Generation 
+  - [The Conditional Analogy GAN: Swapping Fashion Articles on People Images](https://arxiv.org/pdf/1709.04695v1.pdf)
 * Video
- - [Dress like a Star: Retrieving Fashion Products from Videos](https://arxiv.org/pdf/1710.07198v1.pdf)
+  - [Dress like a Star: Retrieving Fashion Products from Videos](https://arxiv.org/pdf/1710.07198v1.pdf)
 
 * Multimodal
- - [DeepStyle: Multimodal Search Engine for Fashion and Interior Design](https://arxiv.org/pdf/1801.03002v1.pdf)
+  - [DeepStyle: Multimodal Search Engine for Fashion and Interior Design](https://arxiv.org/pdf/1801.03002v1.pdf)
  
 * Dialog/Conversation
- - [Netizen-Style Commenting on Fashion Photos: Dataset and Diversity Measures](https://arxiv.org/pdf/1801.10300v1.pdf)
+  - [Netizen-Style Commenting on Fashion Photos: Dataset and Diversity Measures](https://arxiv.org/pdf/1801.10300v1.pdf)
  
-* Fashion Image Embeddings
+* Fashion Embeddings
   - [Fashion Style in 128 Floats: Joint Ranking and Classification using Weak Data for Feature Extraction](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Simo-Serra_Fashion_Style_in_CVPR_2016_paper.pdf)
   - [Learning Type-Aware Embeddings for Fashion Compatibility](https://arxiv.org/pdf/1803.09196v1.pdf)
   
@@ -36,6 +38,7 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
   - [Neuroaesthetics in Fashion: Modeling the Perception of Fashionability](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Simo-Serra_Neuroaesthetics_in_Fashion_2015_CVPR_paper.pdf)
   - [Interpretable Partitioned Embedding for Customized Fashion Outfit Composition](https://arxiv.org/pdf/1806.04845v4.pdf)
   - [Visually-Aware Fashion Recommendation and Design with Generative Image Models](https://arxiv.org/pdf/1711.02231v1.pdf)
+  - [An LSTM-Based Dynamic Customer Model for Fashion Recommendation](https://arxiv.org/pdf/1708.07347v1.pdf)
   
 * Visual Search
   - [Studio2Shop: from studio photo shoots to fashion articles](https://arxiv.org/pdf/1807.00556v1.pdf)
