@@ -19,6 +19,13 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
 ### Papers
 * Image Generation 
   - [The Conditional Analogy GAN: Swapping Fashion Articles on People Images](https://arxiv.org/pdf/1709.04695v1.pdf)
+  
+* Styling/Occasion
+  - [Hipster Wars: Discovering Elements of Fashion Styles](http://www.tamaraberg.com/papers/hipster_eccv14.pdf)
+  
+* Social Media
+  - [Chic or Social: Visual Popularity Analysis in OnlineFashion Networks](http://www.tamaraberg.com/papers/kota_acm14.pdf)
+  
 * Video
   - [Dress like a Star: Retrieving Fashion Products from Videos](https://arxiv.org/pdf/1710.07198v1.pdf)
 
@@ -33,8 +40,7 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
   - [Learning Type-Aware Embeddings for Fashion Compatibility](https://arxiv.org/pdf/1803.09196v1.pdf)
   - [Style2Vec: Representation Learning for Fashion Items from Style Sets](https://arxiv.org/pdf/1708.04014v1.pdf)
   
-  
-* Personalisation/Recommendation/Outfit Composition
+* Personalisation/Recommendation/Outfit Composition/Compatibility
   - [Fashion is Taking Shape: Understanding Clothing Preference Based on Body Shape From Online Sources](https://arxiv.org/pdf/1807.03235v1.pdf)
   - [Creating Capsule Wardrobes from Fashion Images](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hsiao_Creating_Capsule_Wardrobes_CVPR_2018_paper.pdf)
   - [Neuroaesthetics in Fashion: Modeling the Perception of Fashionability](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Simo-Serra_Neuroaesthetics_in_Fashion_2015_CVPR_paper.pdf)
@@ -44,15 +50,24 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
   - [Product Characterisation towards Personalisation: Learning Attributes from Unstructured Data to Recommend Fashion Products](https://arxiv.org/pdf/1803.07679v1.pdf)
   - [Mining Fashion Outfit Composition Using An End-to-End Deep Learning Approach on Set Data](https://arxiv.org/pdf/1608.03016v2.pdf)
   - [Learning Fashion Compatibility with Bidirectional LSTMs](https://arxiv.org/pdf/1707.05691v1.pdf)
+  - [Learning Visual Clothing Style with Heterogeneous Dyadic Co-occurrences](https://arxiv.org/pdf/1509.07473v1.pdf)
+  - [Recommending Outfits from Personal Closet](https://arxiv.org/pdf/1804.09979v1.pdf)
   
   
-* Visual Search
+* Visual Search/Visual Recommendation/Visual Retrieval
   - [Studio2Shop: from studio photo shoots to fashion articles](https://arxiv.org/pdf/1807.00556v1.pdf)
   - [Learning Attribute Representations with Localization for Flexible Fashion Search](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ak_Learning_Attribute_Representations_CVPR_2018_paper.pdf)
   - [Learning the Latent “Look”: Unsupervised Discovery of a Style-Coherent Embedding from Fashion Images](https://arxiv.org/pdf/1707.03376v2.pdf)
   - [Automatic Spatially-aware Fashion Concept Discovery](https://arxiv.org/pdf/1708.01311v1.pdf)
   - [Leveraging Weakly Annotated Data for Fashion Image Retrieval and Label Prediction](https://arxiv.org/pdf/1709.09426v1.pdf)
   - [Large Scale Visual Recommendations From Street Fashion Images](https://arxiv.org/pdf/1401.1778v1.pdf)
+  - [Learning Unified Embedding for Apparel Recognition](https://arxiv.org/pdf/1707.05929.pdf)
+  - [Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce](https://arxiv.org/pdf/1703.02344v1.pdf)
+  - [Visual Search at eBay](https://arxiv.org/pdf/1706.03154v2.pdf)
+  - [Visually-Aware Fashion Recommendation and Design with Generative Image Models](https://arxiv.org/pdf/1711.02231v1.pdf)
+  - [Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network](https://arxiv.org/pdf/1505.07922v1.pdf)
+  - [Image-based Recommendations on Styles and Substitutes](https://arxiv.org/pdf/1506.04757v1.pdf)
+  - [Runway to Realway: Visual Analysis of Fashion](http://www.tamaraberg.com/papers/runway_to_realway.pdf)
   
 
 * Natural Language Understanding in Fashion
@@ -70,6 +85,9 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
   - [How To Extract Fashion Trends From Social Media? A Robust Object Detector With Support For Unsupervised Learning](https://arxiv.org/pdf/1806.10787v1.pdf)
   - [Unconstrained Fashion Landmark Detection via Hierarchical Recurrent Transformer Networks](https://arxiv.org/pdf/1708.02044v1.pdf)
   - [Fashion Apparel Detection: The Role of Deep Convolutional Neural Network and Pose-dependent Priors](https://arxiv.org/pdf/1411.5319v2.pdf)
+  - [Parsing Clothing in Fashion Photographs](http://www.tamaraberg.com/papers/parsingclothing.pdf)
+  - [Paper Doll Parsing: Retrieving Similar Styles to Parse Clothing Items](http://www.tamaraberg.com/papers/paperdoll.pdf)
+  
   
 * Retail Insights/Trends/Forecasting/Inventory Management
   - [FashionBrain Project: A Vision for Understanding Europe’s Fashion Data Universe](https://arxiv.org/pdf/1710.09788v1.pdf)
@@ -79,6 +97,9 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
   - [Who Leads the Clothing Fashion: Style, Color, or Texture? A Computational Study](https://arxiv.org/pdf/1608.07444v1.pdf)
   - [Robust Order Scheduling in the Fashion Industry: A Multi-Objective Optimization Approach](https://arxiv.org/pdf/1702.00159v1.pdf)
   - [Changing Fashion Culture](https://arxiv.org/pdf/1703.07920v1.pdf)
+  - [Sales Potential: Modelling Sellability of Visual Aesthetics of a Fashion Product](https://kddfashion2017.mybluemix.net/final_submissions/ML4Fashion_paper_10.pdf)
+  - [ARMDN: Associative and Recurrent Mixture Density Networks for eRetail Demand Forecasting](https://arxiv.org/pdf/1803.03800.pdf)
+  
   
 ### Workshops
 * KDD Workshop on AI for Fashion [2018](https://kddfashion2018.mybluemix.net/), [2017](https://kddfashion2017.mybluemix.net/), [2016](http://kddfashion2016.mybluemix.net/)
@@ -101,6 +122,11 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
 ### Blogs 
 
 ### People
+* [Tamara Berg](http://www.tamaraberg.com/)
+* [Kristen Graumen](http://www.cs.utexas.edu/users/grauman/)
+* [Ranjitha Kumar](http://ranjithakumar.net/)
+* [Julian McAuley](http://cseweb.ucsd.edu/~jmcauley/)
+* [Kota Yamaguchi](https://sites.google.com/view/kyamagu/home)
 
 ### Miscellaneous
 - [Fashion-Gen: The Generative Fashion Dataset and Challenge](https://arxiv.org/abs/1806.08317v1)
