@@ -8,33 +8,12 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
 
 * [Papers](#papers)
 * [Workshops](#workshops)
-* [Tutorials](#tutorials)
-* [Demos](#demos)
 * [Datasets](#datasets)
-* [Blogs](#blogs)
 * [People](#people)
 * [Miscellaneous](#miscellaneous)
 
 
 ### Papers
-* Image Generation 
-  - [The Conditional Analogy GAN: Swapping Fashion Articles on People Images](https://arxiv.org/pdf/1709.04695v1.pdf)
-  
-* Styling/Occasion
-  - [Hipster Wars: Discovering Elements of Fashion Styles](http://www.tamaraberg.com/papers/hipster_eccv14.pdf)
-  
-* Social Media
-  - [Chic or Social: Visual Popularity Analysis in OnlineFashion Networks](http://www.tamaraberg.com/papers/kota_acm14.pdf)
-  
-* Video
-  - [Dress like a Star: Retrieving Fashion Products from Videos](https://arxiv.org/pdf/1710.07198v1.pdf)
-
-* Multimodal
-  - [DeepStyle: Multimodal Search Engine for Fashion and Interior Design](https://arxiv.org/pdf/1801.03002v1.pdf)
- 
-* Dialog/Conversation
-  - [Netizen-Style Commenting on Fashion Photos: Dataset and Diversity Measures](https://arxiv.org/pdf/1801.10300v1.pdf)
- 
 * Fashion Embeddings
   - [Fashion Style in 128 Floats: Joint Ranking and Classification using Weak Data for Feature Extraction](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Simo-Serra_Fashion_Style_in_CVPR_2016_paper.pdf)
   - [Learning Type-Aware Embeddings for Fashion Compatibility](https://arxiv.org/pdf/1803.09196v1.pdf)
@@ -100,15 +79,34 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
   - [Sales Potential: Modelling Sellability of Visual Aesthetics of a Fashion Product](https://kddfashion2017.mybluemix.net/final_submissions/ML4Fashion_paper_10.pdf)
   - [ARMDN: Associative and Recurrent Mixture Density Networks for eRetail Demand Forecasting](https://arxiv.org/pdf/1803.03800.pdf)
   
+* Image Generation 
+  - [The Conditional Analogy GAN: Swapping Fashion Articles on People Images](https://arxiv.org/pdf/1709.04695v1.pdf)
   
+* Styling/Occasion
+  - [Hipster Wars: Discovering Elements of Fashion Styles](http://www.tamaraberg.com/papers/hipster_eccv14.pdf)
+  
+* Social Media
+  - [Chic or Social: Visual Popularity Analysis in OnlineFashion Networks](http://www.tamaraberg.com/papers/kota_acm14.pdf)
+  - [Identifying Fashion Accounts in Social Networks](https://kddfashion2017.mybluemix.net/final_submissions/ML4Fashion_paper_21.pdf)
+  
+* Sizing
+  - [Decomposing Fit Semantics for Product Size Recommendation in Metric Spaces](https://cseweb.ucsd.edu/~m5wan/paper/recsys18_rmisra)
+  
+* Video
+  - [Dress like a Star: Retrieving Fashion Products from Videos](https://arxiv.org/pdf/1710.07198v1.pdf)
+
+* Multimodal
+  - [DeepStyle: Multimodal Search Engine for Fashion and Interior Design](https://arxiv.org/pdf/1801.03002v1.pdf)
+ 
+* Dialog/Conversation
+  - [Netizen-Style Commenting on Fashion Photos: Dataset and Diversity Measures](https://arxiv.org/pdf/1801.10300v1.pdf)
+  - [Fashion Conversation Data on Instagram](https://arxiv.org/pdf/1704.04137.pdf)
+
 ### Workshops
 * KDD Workshop on AI for Fashion [2018](https://kddfashion2018.mybluemix.net/), [2017](https://kddfashion2017.mybluemix.net/), [2016](http://kddfashion2016.mybluemix.net/)
 * ICCV/ECCV Workshop on Computer Vision for Fashion, Art and Design [2018](https://sites.google.com/view/eccvfashion/), [2017](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
 * SIGIR Workshop On eCommerce [2018](https://sigir-ecom.github.io/index.html), [2017](http://sigir-ecom.weebly.com/)
 
-### Tutorials
-
-### Demos
 
 ### Datasets
 * [Large-scale Fashion (DeepFashion)](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
@@ -119,7 +117,6 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
 * Fashion Takes Shape
 * ModaNet [paper](https://arxiv.org/pdf/1807.01394v2.pdf)
 
-### Blogs 
 
 ### People
 * [Tamara Berg](http://www.tamaraberg.com/)
