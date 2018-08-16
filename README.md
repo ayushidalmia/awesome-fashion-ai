@@ -79,8 +79,9 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
   - [Sales Potential: Modelling Sellability of Visual Aesthetics of a Fashion Product](https://kddfashion2017.mybluemix.net/final_submissions/ML4Fashion_paper_10.pdf)
   - [ARMDN: Associative and Recurrent Mixture Density Networks for eRetail Demand Forecasting](https://arxiv.org/pdf/1803.03800.pdf)
   
-* Image Generation 
+* Image Generation/Image Manipulation in Fashion
   - [The Conditional Analogy GAN: Swapping Fashion Articles on People Images](https://arxiv.org/pdf/1709.04695v1.pdf)
+  - [Language Guided Fashion Image Manipulation with Feature-wise Transformations](https://arxiv.org/pdf/1808.04000v1.pdf)
   
 * Styling/Occasion
   - [Hipster Wars: Discovering Elements of Fashion Styles](http://www.tamaraberg.com/papers/hipster_eccv14.pdf)
