@@ -95,6 +95,7 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
   
 * Video
   - [Dress like a Star: Retrieving Fashion Products from Videos](https://arxiv.org/pdf/1710.07198v1.pdf)
+  - [Video2Shop: Exactly Matching Clothes in Videos to Online Shopping Images](https://arxiv.org/abs/1804.05287v1), CVPR, 2017
 
 * Multimodal
   - [DeepStyle: Multimodal Search Engine for Fashion and Interior Design](https://arxiv.org/pdf/1801.03002v1.pdf)
