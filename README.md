@@ -16,10 +16,11 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
 ### Papers
 * Fashion Embeddings
   - [Fashion Style in 128 Floats: Joint Ranking and Classification using Weak Data for Feature Extraction](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Simo-Serra_Fashion_Style_in_CVPR_2016_paper.pdf)
-  - [Learning Type-Aware Embeddings for Fashion Compatibility](https://arxiv.org/pdf/1803.09196v1.pdf)
+  - [Learning Type-Aware Embeddings for Fashion Compatibility](https://arxiv.org/pdf/1803.09196v1.pdf), ECCV, 2018
   - [Style2Vec: Representation Learning for Fashion Items from Style Sets](https://arxiv.org/pdf/1708.04014v1.pdf)
   
 * Personalisation/Recommendation/Outfit Composition/Compatibility
+  - [Hi, magic closet, tell me what to wear!](https://arxiv.org/pdf/1506.04757.pdf), MM, 2012
   - [Fashion is Taking Shape: Understanding Clothing Preference Based on Body Shape From Online Sources](https://arxiv.org/pdf/1807.03235v1.pdf)
   - [Creating Capsule Wardrobes from Fashion Images](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hsiao_Creating_Capsule_Wardrobes_CVPR_2018_paper.pdf)
   - [Neuroaesthetics in Fashion: Modeling the Perception of Fashionability](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Simo-Serra_Neuroaesthetics_in_Fashion_2015_CVPR_paper.pdf)
@@ -47,7 +48,7 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
   - [Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network](https://arxiv.org/pdf/1505.07922v1.pdf)
   - [Image-based Recommendations on Styles and Substitutes](https://arxiv.org/pdf/1506.04757v1.pdf)
   - [Runway to Realway: Visual Analysis of Fashion](http://www.tamaraberg.com/papers/runway_to_realway.pdf)
-  
+  - [Getting the look: clothing recognition and segmentation for automatic product suggestions in everyday photos](http://image.ntua.gr/iva/files/kalantidis_icmr13.pdf), ICMR 2013
 
 * Natural Language Understanding in Fashion
   - [A Hierarchical Deep Learning Natural Language Parser for Fashion](https://arxiv.org/pdf/1806.09511v1.pdf)
@@ -79,10 +80,11 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
   - [Sales Potential: Modelling Sellability of Visual Aesthetics of a Fashion Product](https://kddfashion2017.mybluemix.net/final_submissions/ML4Fashion_paper_10.pdf)
   - [ARMDN: Associative and Recurrent Mixture Density Networks for eRetail Demand Forecasting](https://arxiv.org/pdf/1803.03800.pdf)
   
-* Image Generation/Image Manipulation in Fashion
+* Image Generation/Image Manipulation in Fashion/Style Transfer
   - [The Conditional Analogy GAN: Swapping Fashion Articles on People Images](https://arxiv.org/pdf/1709.04695v1.pdf)
   - [Language Guided Fashion Image Manipulation with Feature-wise Transformations](https://arxiv.org/pdf/1808.04000v1.pdf)
-  
+  - [SwapNet: Image Based Garment Transfer](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf), ECCV 2018
+
 * Styling/Occasion
   - [Hipster Wars: Discovering Elements of Fashion Styles](http://www.tamaraberg.com/papers/hipster_eccv14.pdf)
   
@@ -103,6 +105,9 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
 * Dialog/Conversation
   - [Netizen-Style Commenting on Fashion Photos: Dataset and Diversity Measures](https://arxiv.org/pdf/1801.10300v1.pdf)
   - [Fashion Conversation Data on Instagram](https://arxiv.org/pdf/1704.04137.pdf)
+  
+* Clothing Model
+  - [DeepWrinkles: Accurate and Realistic Clothing Modeling](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zorah_Laehner_DeepWrinkles_Accurate_and_ECCV_2018_paper.pdf), ECCV 2018
 
 ### Workshops
 * KDD Workshop on AI for Fashion [2018](https://kddfashion2018.mybluemix.net/), [2017](https://kddfashion2017.mybluemix.net/), [2016](http://kddfashion2016.mybluemix.net/)
@@ -119,14 +124,14 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
 * Fashion Takes Shape
 * ModaNet [paper](https://arxiv.org/pdf/1807.01394v2.pdf)
 
-
+<!---
 ### People
 * [Tamara Berg](http://www.tamaraberg.com/)
 * [Kristen Graumen](http://www.cs.utexas.edu/users/grauman/)
 * [Ranjitha Kumar](http://ranjithakumar.net/)
 * [Julian McAuley](http://cseweb.ucsd.edu/~jmcauley/)
 * [Kota Yamaguchi](https://sites.google.com/view/kyamagu/home)
-
+-->
 ### Miscellaneous
 - [Fashion-Gen: The Generative Fashion Dataset and Challenge](https://arxiv.org/abs/1806.08317v1)
 
