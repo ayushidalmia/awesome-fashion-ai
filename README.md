@@ -14,6 +14,8 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
 
 
 ### Papers
+
+Areas
 * [Fashion Embeddings](#fashion-embeddings)
 * [Personalisation/Recommendation/Outfit Composition/Compatibility](#personalisationrecommendationoutfit-compositioncompatibility)
 * [Visual Search/Visual Recommendation/Visual Retrieval](#visual-searchvisual-recommendationvisual-retrieval)
