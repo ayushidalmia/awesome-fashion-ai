@@ -70,6 +70,7 @@ Areas
 ##### Natural Language Understanding in Fashion
   - [A Hierarchical Deep Learning Natural Language Parser for Fashion](https://arxiv.org/pdf/1806.09511v1.pdf)
   - ["Let me convince you to buy my product ... ": A Case Study of an Automated Persuasive System for Fashion Products](https://arxiv.org/pdf/1709.08366v1.pdf)
+  - ["Designing the Future of Personal Fashion"](http://ranjithakumar.net/resources/personal_fashion.pdf)
   
 ##### Fashion Image Object Detection/Classification/Parsing/Segmentation/Attribute Manipulation
   - [How To Extract Fashion Trends From Social Media?](https://arxiv.org/pdf/1806.10787v1.pdf)
