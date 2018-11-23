@@ -25,7 +25,7 @@ Areas
 * [Image Generation/Image Manipulation in Fashion/Style Transfer](image-generationimage-manipulation-in-fashionstyle-transfer)
 * [Styling/Occasion](#stylingoccasion)
 * [Social Media](#social-media)
-* [Sizing](#sizing)
+* [Sizing/Virtual Trial Room](#sizingvirtual-trial-room)
 * [Video](#video)
 * [Multimodal](#multimodal)
 * [Clothing Model](#clothing-model)
@@ -71,6 +71,7 @@ Areas
   - [A Hierarchical Deep Learning Natural Language Parser for Fashion](https://arxiv.org/pdf/1806.09511v1.pdf)
   - ["Let me convince you to buy my product ... ": A Case Study of an Automated Persuasive System for Fashion Products](https://arxiv.org/pdf/1709.08366v1.pdf)
   - ["Designing the Future of Personal Fashion"](http://ranjithakumar.net/resources/personal_fashion.pdf)
+  - [Deep Recurrent Neural Networks for Product Attribute Extraction in eCommerce](https://arxiv.org/pdf/1803.11284v1.pdf)
   
 ##### Fashion Image Object Detection/Classification/Parsing/Segmentation/Attribute Manipulation
   - [How To Extract Fashion Trends From Social Media?](https://arxiv.org/pdf/1806.10787v1.pdf)
@@ -110,8 +111,9 @@ Areas
   - [Chic or Social: Visual Popularity Analysis in OnlineFashion Networks](http://www.tamaraberg.com/papers/kota_acm14.pdf)
   - [Identifying Fashion Accounts in Social Networks](https://kddfashion2017.mybluemix.net/final_submissions/ML4Fashion_paper_21.pdf)
   
-##### Sizing
+##### Sizing/Virtual Trial Room
   - [Decomposing Fit Semantics for Product Size Recommendation in Metric Spaces](https://cseweb.ucsd.edu/~m5wan/paper/recsys18_rmisra)
+  - [M2E-Try On Net: Fashion from Model to Everyone](https://arxiv.org/pdf/1811.08599v1.pdf)
   
 ##### Video
   - [Dress like a Star: Retrieving Fashion Products from Videos](https://arxiv.org/pdf/1710.07198v1.pdf)
@@ -152,6 +154,8 @@ Areas
 -->
 ### Miscellaneous
 - [Fashion-Gen: The Generative Fashion Dataset and Challenge](https://arxiv.org/abs/1806.08317v1)
+- [Brand > Logo: Visual Analysis of Fashion Brands](https://arxiv.org/pdf/1810.09941v1.pdf)
+
 
 ### Author
 [Ayushi Dalmia](https://github.com/ayushidalmia)
