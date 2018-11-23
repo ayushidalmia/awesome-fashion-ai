@@ -159,3 +159,6 @@ Areas
 
 ### Author
 [Ayushi Dalmia](https://github.com/ayushidalmia)
+
+###License
+MIT
