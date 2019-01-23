@@ -49,7 +49,7 @@ Areas
   - [Learning Fashion Compatibility with Bidirectional LSTMs](https://arxiv.org/pdf/1707.05691v1.pdf)
   - [Learning Visual Clothing Style with Heterogeneous Dyadic Co-occurrences](https://arxiv.org/pdf/1509.07473v1.pdf)
   - [Recommending Outfits from Personal Closet](https://arxiv.org/pdf/1804.09979v1.pdf)
-  
+  - [Toward Explainable Fashion Recommendation](https://arxiv.org/pdf/1901.04870v1.pdf) 
   
 ##### Visual Search/Visual Recommendation/Visual Retrieval
   - [Studio2Shop: from studio photo shoots to fashion articles](https://arxiv.org/pdf/1807.00556v1.pdf)
