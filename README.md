@@ -66,6 +66,8 @@ Areas
   - [Image-based Recommendations on Styles and Substitutes](https://arxiv.org/pdf/1506.04757v1.pdf)
   - [Runway to Realway: Visual Analysis of Fashion](http://www.tamaraberg.com/papers/runway_to_realway.pdf)
   - [Getting the look: clothing recognition and segmentation for automatic product suggestions in everyday photos](http://image.ntua.gr/iva/files/kalantidis_icmr13.pdf), ICMR 2013
+  - [DeepStyle: Multimodal Search Engine for Fashion and Interior Design](https://arxiv.org/abs/1801.03002v2)
+
 
 ##### Natural Language Understanding in Fashion
   - [A Hierarchical Deep Learning Natural Language Parser for Fashion](https://arxiv.org/pdf/1806.09511v1.pdf)
@@ -73,7 +75,7 @@ Areas
   - ["Designing the Future of Personal Fashion"](http://ranjithakumar.net/resources/personal_fashion.pdf)
   - [Deep Recurrent Neural Networks for Product Attribute Extraction in eCommerce](https://arxiv.org/pdf/1803.11284v1.pdf)
   
-##### Fashion Image Object Detection/Classification/Parsing/Segmentation/Attribute Manipulation
+##### Fashion Image Object Detection/Classification/Parsing/Segmentation/Attribute Manipulation/Landmark Detection
   - [How To Extract Fashion Trends From Social Media?](https://arxiv.org/pdf/1806.10787v1.pdf)
   - [Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.pdf)
   - [Memory-Augmented Attribute Manipulation Networks for Interactive Fashion Search](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhao_Memory-Augmented_Attribute_Manipulation_CVPR_2017_paper.pdf)
@@ -86,7 +88,8 @@ Areas
   - [Fashion Apparel Detection: The Role of Deep Convolutional Neural Network and Pose-dependent Priors](https://arxiv.org/pdf/1411.5319v2.pdf)
   - [Parsing Clothing in Fashion Photographs](http://www.tamaraberg.com/papers/parsingclothing.pdf)
   - [Paper Doll Parsing: Retrieving Similar Styles to Parse Clothing Items](http://www.tamaraberg.com/papers/paperdoll.pdf)
-  
+  - [Two-Stream Multi-Task Network for Fashion Recognition](https://arxiv.org/abs/1901.10172v2)
+  - [Spatial-Aware Non-Local Attention for Fashion Landmark Detection](https://arxiv.org/abs/1903.04104v1)
   
 ##### Retail Insights/Trends/Forecasting/Inventory Management
   - [FashionBrain Project: A Vision for Understanding Europe’s Fashion Data Universe](https://arxiv.org/pdf/1710.09788v1.pdf)
@@ -103,6 +106,8 @@ Areas
   - [The Conditional Analogy GAN: Swapping Fashion Articles on People Images](https://arxiv.org/pdf/1709.04695v1.pdf)
   - [Language Guided Fashion Image Manipulation with Feature-wise Transformations](https://arxiv.org/pdf/1808.04000v1.pdf)
   - [SwapNet: Image Based Garment Transfer](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf), ECCV 2018
+  - [Compatible and Diverse Fashion Image Inpainting](https://arxiv.org/abs/1902.01096v1)
+
 
 ##### Styling/Occasion
   - [Hipster Wars: Discovering Elements of Fashion Styles](http://www.tamaraberg.com/papers/hipster_eccv14.pdf)
@@ -143,7 +148,7 @@ Areas
 * [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)
 * Fashion Takes Shape
 * ModaNet [paper](https://arxiv.org/pdf/1807.01394v2.pdf)
-
+* [DeepFashion2](https://github.com/switchablenorms/DeepFashion2),[paper](https://arxiv.org/abs/1901.07973)
 <!---
 ### People
 * [Tamara Berg](http://www.tamaraberg.com/)
