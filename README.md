@@ -35,6 +35,7 @@ Areas
   - [Fashion Style in 128 Floats: Joint Ranking and Classification using Weak Data for Feature Extraction](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Simo-Serra_Fashion_Style_in_CVPR_2016_paper.pdf)
   - [Learning Type-Aware Embeddings for Fashion Compatibility](https://arxiv.org/pdf/1803.09196v1.pdf), ECCV, 2018
   - [Style2Vec: Representation Learning for Fashion Items from Style Sets](https://arxiv.org/pdf/1708.04014v1.pdf)
+  - [Context-Aware Visual Compatibility Prediction](https://arxiv.org/abs/1902.03646)
   
 ##### Personalisation/Recommendation/Outfit Composition/Compatibility
   - [Hi, magic closet, tell me what to wear!](https://arxiv.org/pdf/1506.04757.pdf), MM, 2012
