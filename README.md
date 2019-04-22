@@ -108,7 +108,7 @@ Areas
   - [Language Guided Fashion Image Manipulation with Feature-wise Transformations](https://arxiv.org/pdf/1808.04000v1.pdf)
   - [SwapNet: Image Based Garment Transfer](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf), ECCV 2018
   - [Compatible and Diverse Fashion Image Inpainting](https://arxiv.org/abs/1902.01096v1)
-
+  - [Fashion++: Minimal Edits for Outfit Improvement](https://arxiv.org/abs/1904.09261)
 
 ##### Styling/Occasion
   - [Hipster Wars: Discovering Elements of Fashion Styles](http://www.tamaraberg.com/papers/hipster_eccv14.pdf)
@@ -136,7 +136,7 @@ Areas
   - [DeepWrinkles: Accurate and Realistic Clothing Modeling](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zorah_Laehner_DeepWrinkles_Accurate_and_ECCV_2018_paper.pdf), ECCV 2018
 
 ### Workshops
-* KDD Workshop on AI for Fashion [2018](https://kddfashion2018.mybluemix.net/), [2017](https://kddfashion2017.mybluemix.net/), [2016](http://kddfashion2016.mybluemix.net/)
+* KDD Workshop on AI for Fashion [2019](https://kddfashion2019.mybluemix.net/), [2018](https://kddfashion2018.mybluemix.net/), [2017](https://kddfashion2017.mybluemix.net/), [2016](http://kddfashion2016.mybluemix.net/)
 * ICCV/ECCV Workshop on Computer Vision for Fashion, Art and Design [2018](https://sites.google.com/view/eccvfashion/), [2017](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
 * SIGIR Workshop On eCommerce [2018](https://sigir-ecom.github.io/index.html), [2017](http://sigir-ecom.weebly.com/)
 
