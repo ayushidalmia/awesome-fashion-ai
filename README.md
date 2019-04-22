@@ -9,7 +9,6 @@ A curated list of research papers, datasets, tools, conferences, workshops relat
 * [Papers](#papers)
 * [Workshops](#workshops)
 * [Datasets](#datasets)
-* [People](#people)
 * [Miscellaneous](#miscellaneous)
 
 
