@@ -104,6 +104,7 @@ Areas
   - [ARMDN: Associative and Recurrent Mixture Density Networks for eRetail Demand Forecasting](https://arxiv.org/pdf/1803.03800.pdf)
   
 ##### Image Generation/Image Manipulation in Fashion/Style Transfer
+  - [Joint Discriminative and Generative Learning for Person Re-identification](https://arxiv.org/abs/1904.07223), CVPR 2019 [[Project]](http://zdzheng.xyz/DG-Net/) [[Paper]](https://arxiv.org/abs/1904.07223) [[YouTube]](https://www.youtube.com/watch?v=ubCrEAIpQs4) [[Bilibili]](https://www.bilibili.com/video/av51439240) [[Poster]](http://zdzheng.xyz/images/DGNet_poster.pdf)
   - [The Conditional Analogy GAN: Swapping Fashion Articles on People Images](https://arxiv.org/pdf/1709.04695v1.pdf)
   - [Language Guided Fashion Image Manipulation with Feature-wise Transformations](https://arxiv.org/pdf/1808.04000v1.pdf)
   - [SwapNet: Image Based Garment Transfer](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf), ECCV 2018
