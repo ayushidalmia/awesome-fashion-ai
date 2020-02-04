@@ -91,6 +91,7 @@ Areas
   - [Paper Doll Parsing: Retrieving Similar Styles to Parse Clothing Items](http://www.tamaraberg.com/papers/paperdoll.pdf)
   - [Two-Stream Multi-Task Network for Fashion Recognition](https://arxiv.org/abs/1901.10172v2)
   - [Spatial-Aware Non-Local Attention for Fashion Landmark Detection](https://arxiv.org/abs/1903.04104v1)
+  - [Semantic Segmentation of Fashion Images Using Feature Pyramid Networks](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Martinsson_Semantic_Segmentation_of_Fashion_Images_Using_Feature_Pyramid_Networks_ICCVW_2019_paper.html)
   
 ##### Retail Insights/Trends/Forecasting/Inventory Management
   - [FashionBrain Project: A Vision for Understanding Europe’s Fashion Data Universe](https://arxiv.org/pdf/1710.09788v1.pdf)
@@ -110,6 +111,7 @@ Areas
   - [SwapNet: Image Based Garment Transfer](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf), ECCV 2018
   - [Compatible and Diverse Fashion Image Inpainting](https://arxiv.org/abs/1902.01096v1)
   - [Fashion++: Minimal Edits for Outfit Improvement](https://arxiv.org/abs/1904.09261)
+  - [Generative Modelling of Semantic Segmentation Data in the Fashion Domain](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Korneliusson_Generative_Modelling_of_Semantic_Segmentation_Data_in_the_Fashion_Domain_ICCVW_2019_paper.html)
 
 ##### Styling/Occasion
   - [Hipster Wars: Discovering Elements of Fashion Styles](http://www.tamaraberg.com/papers/hipster_eccv14.pdf)
