@@ -139,10 +139,10 @@ Areas
   - [DeepWrinkles: Accurate and Realistic Clothing Modeling](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zorah_Laehner_DeepWrinkles_Accurate_and_ECCV_2018_paper.pdf), ECCV 2018
 
 ### Workshops
-* KDD Workshop on AI for Fashion [2019](https://kddfashion2019.mybluemix.net/), [2018](https://kddfashion2018.mybluemix.net/), [2017](https://kddfashion2017.mybluemix.net/), [2016](http://kddfashion2016.mybluemix.net/)
-* ICCV/ECCV Workshop on Computer Vision for Fashion, Art and Design [2018](https://sites.google.com/view/eccvfashion/), [2017](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
+* KDD Workshop on AI for Fashion  [2020](https://kddfashion2020.mybluemix.net/), [2019](https://kddfashion2019.mybluemix.net/), [2018](https://kddfashion2018.mybluemix.net/), [2017](https://kddfashion2017.mybluemix.net/), [2016](http://kddfashion2016.mybluemix.net/)
+* ICCV/ECCV Workshop on Computer Vision for Fashion, Art and Design [2020](https://sites.google.com/view/cvcreative2020), [2019](https://sites.google.com/view/cvcreative) [2018](https://sites.google.com/view/eccvfashion/), [2017](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
 * SIGIR Workshop On eCommerce [2018](https://sigir-ecom.github.io/index.html), [2017](http://sigir-ecom.weebly.com/)
-* Recommender Systems in Fashion [2019](https://zalandoresearch.github.io/fashionxrecsys/)
+* Recommender Systems in Fashion [2020](https://fashionxrecsys.github.io/fashionxrecsys-2020/),  [2019](https://zalandoresearch.github.io/fashionxrecsys/)
 
 ### Tutorials
 * [Concept to Code: Deep Learning for Fashion Recommendation.](https://www2019.thewebconf.org/tutorials).        
@@ -155,9 +155,11 @@ Organizers: Omprakash Sonie, Muthusamy Chelliah and Shamik Sural, The Web Confer
 * [Fashionista](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/)
 * [Paperdoll](http://vision.is.tohoku.ac.jp/~kyamagu/research/paperdoll/)
 * [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)
-* Fashion Takes Shape
-* ModaNet [paper](https://arxiv.org/pdf/1807.01394v2.pdf)
+* [Fashion Takes Shape](https://www.groundai.com/project/fashion-is-taking-shape-understanding-clothing-preference-based-on-body-shape-from-online-sources/1)
+* [ModaNet](https://github.com/eBay/modanet) [paper](https://arxiv.org/pdf/1807.01394v2.pdf)
 * [DeepFashion2](https://github.com/switchablenorms/DeepFashion2),[paper](https://arxiv.org/abs/1901.07973)
+* [iMaterialist-Fashion](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6)
+* [Clothing Fit Dataset for Size Recommendation](https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation)
 <!---
 ### People
 * [Tamara Berg](http://www.tamaraberg.com/)
