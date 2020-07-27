@@ -137,6 +137,16 @@ Areas
   
 ##### Clothing Model
   - [DeepWrinkles: Accurate and Realistic Clothing Modeling](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zorah_Laehner_DeepWrinkles_Accurate_and_ECCV_2018_paper.pdf), ECCV 2018
+  - [Learning a Shared Shape Space for Multimodal Garment Design](https://geometry.cs.ucl.ac.uk/projects/2018/garment_design/), SIGGRAPH Asia 2018
+  - [Garnet: A Two-stream Network for Fast and Accurate 3D Cloth Draping](https://www.epfl.ch/labs/cvlab/research/garment-simulation/garnet/), ICCV 2019
+  - [Learning-Based Animation of Clothing for Virtual Try-On](http://dancasas.github.io/projects/LearningBasedVirtualTryOn/), Eurographics 2019
+  - [TailorNet :Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style](https://virtualhumans.mpi-inf.mpg.de/tailornet/), CVPR 2020
+  - [SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing](https://virtualhumans.mpi-inf.mpg.de/sizer/), ECCV 2020
+ 
+##### 3D Clothing from Images
+  - [MULTI-GARMENT NET: LEARNING TO DRESS 3D PEOPLE FROM IMAGES](https://virtualhumans.mpi-inf.mpg.de/mgn/), ICCV 2019
+  - [Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/), ECCV 2020 
+  - [BCNet: Learning Body and Cloth Shape from A Single Image](https://arxiv.org/abs/2004.00214), ECCV 2020
 
 ### Workshops
 * KDD Workshop on AI for Fashion  [2020](https://kddfashion2020.mybluemix.net/), [2019](https://kddfashion2019.mybluemix.net/), [2018](https://kddfashion2018.mybluemix.net/), [2017](https://kddfashion2017.mybluemix.net/), [2016](http://kddfashion2016.mybluemix.net/)
@@ -160,6 +170,9 @@ Organizers: Omprakash Sonie, Muthusamy Chelliah and Shamik Sural, The Web Confer
 * [DeepFashion2](https://github.com/switchablenorms/DeepFashion2),[paper](https://arxiv.org/abs/1901.07973)
 * [iMaterialist-Fashion](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6)
 * [Clothing Fit Dataset for Size Recommendation](https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation)
+* [MULTI-GARMENT NET: LEARNING TO DRESS 3D PEOPLE FROM IMAGES](https://virtualhumans.mpi-inf.mpg.de/mgn/), ICCV 2019
+* [Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/), ECCV 2020
+* [SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing](https://virtualhumans.mpi-inf.mpg.de/sizer/), ECCV 2020
 <!---
 ### People
 * [Tamara Berg](http://www.tamaraberg.com/)
@@ -178,3 +191,4 @@ Organizers: Omprakash Sonie, Muthusamy Chelliah and Shamik Sural, The Web Confer
 
 ###License
 MIT
+
