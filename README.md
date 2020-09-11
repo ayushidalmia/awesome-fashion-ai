@@ -171,7 +171,7 @@ Organizers: Omprakash Sonie, Muthusamy Chelliah and Shamik Sural, The Web Confer
 * [iMaterialist-Fashion](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6)
 * [Clothing Fit Dataset for Size Recommendation](https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation)
 * [MULTI-GARMENT NET: LEARNING TO DRESS 3D PEOPLE FROM IMAGES](https://virtualhumans.mpi-inf.mpg.de/mgn/), ICCV 2019
-* [TailorNet: Predicting Garment in 3D as a Function of Body Pose, Shape and Garment Style](https://virtualhumans.mpi-inf.mpg.de/tailornet/), CVPR 2020
+* [TailorNet: Predicting Garment in 3D as a Function of Human Pose, Shape and Garment Style](https://virtualhumans.mpi-inf.mpg.de/tailornet/), CVPR 2020
 * [Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/), ECCV 2020
 * [SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing](https://virtualhumans.mpi-inf.mpg.de/sizer/), ECCV 2020
 <!---
