@@ -38,7 +38,7 @@ Areas
   - [Context-Aware Visual Compatibility Prediction](https://arxiv.org/abs/1902.03646)
   
 ##### Personalisation/Recommendation/Outfit Composition/Compatibility
-  - [Hi, magic closet, tell me what to wear!](https://arxiv.org/pdf/1506.04757.pdf), MM, 2012
+  - [Hi, magic closet, tell me what to wear!](https://people.cs.clemson.edu/~jzwang/1501863/mm2012/p619-liu.pdf), MM, 2012
   - [Fashion is Taking Shape: Understanding Clothing Preference Based on Body Shape From Online Sources](https://arxiv.org/pdf/1807.03235v1.pdf)
   - [Creating Capsule Wardrobes from Fashion Images](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hsiao_Creating_Capsule_Wardrobes_CVPR_2018_paper.pdf)
   - [Neuroaesthetics in Fashion: Modeling the Perception of Fashionability](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Simo-Serra_Neuroaesthetics_in_Fashion_2015_CVPR_paper.pdf)
