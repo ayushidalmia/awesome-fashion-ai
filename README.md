@@ -185,6 +185,7 @@ Organizers: Omprakash Sonie, Muthusamy Chelliah and Shamik Sural, The Web Confer
 ### Miscellaneous
 - [Fashion-Gen: The Generative Fashion Dataset and Challenge](https://arxiv.org/abs/1806.08317v1)
 - [Brand > Logo: Visual Analysis of Fashion Brands](https://arxiv.org/pdf/1810.09941v1.pdf)
+- [Fashion Segmentation Model](https://github.com/pubkey/fashion-segmentation)
 
 
 ### Author
